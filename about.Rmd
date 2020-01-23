@@ -1,0 +1,14 @@
+---
+title: "About Jarrod"
+description: |
+  Here is a little bit about me.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Hi, my name is Jarrod Pelkofer. I currently work as a Business Analyst at Northwestern Mutual in Milwaukee, WI. I am a graduate student in the Master's of Data Science program through the University of Wisconsin system. Details on the program can be found here:
+<https://datasciencedegree.wisconsin.edu/>
+
+I am married to my wife Mary. We have a daughter, Rori (1 year old), a dog name Clay, and another baby girl on the way in July of 2020!

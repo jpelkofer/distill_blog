@@ -1,0 +1,32 @@
+[
+  {
+    "path": "posts/rvest_web_scrape/",
+    "title": "Scraping the Web with rvest",
+    "description": "A post showing how I used rvest to scrape golf data.",
+    "author": [
+      {
+        "name": "Jarrod Pelkofer",
+        "url": {}
+      }
+    ],
+    "date": "2020-01-23",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-01-23T08:37:17-06:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to JP's Blog",
+    "description": "Welcome to my new blog. I  hope you enjoy \nreading what I have to say!",
+    "author": [
+      {
+        "name": "Jarrod Pelkofer",
+        "url": {}
+      }
+    ],
+    "date": "2020-01-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-01-23T08:38:45-06:00"
+  }
+]
