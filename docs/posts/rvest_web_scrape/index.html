@@ -3677,8 +3677,11 @@ tournament_id_data &lt;- webpage %&gt;%
   html_nodes(&#39;optgroup&#39;) %&gt;% 
   html_nodes(&#39;option&#39;)
 
-grab_id &lt;- &quot;[[:digit:]]+&quot; #reg expression to pull id from tournament/player links
-grab_tournament_name &lt;- &quot;(?&lt;=&gt;).*(?=&lt;/option)&quot; #(?&lt;=&gt; looks behind &gt;), .* matches everything except new lines, (?=&lt;/option) looks ahead to match &lt;/option
+#reg expression to pull id from tournament/player links
+grab_id &lt;- &quot;[[:digit:]]+&quot; 
+
+#(?&lt;=&gt; looks behind &gt;), .* matches everything except new lines, (?=&lt;/option) looks ahead to match &lt;/option
+grab_tournament_name &lt;- &quot;(?&lt;=&gt;).*(?=&lt;/option)&quot; 
 grab_date &lt;- &quot;(?&lt;=&gt;).*(?=&lt;/span)&quot;
 
 tournament_ids &lt;- integer() #empty vector to pull tournament ids for season

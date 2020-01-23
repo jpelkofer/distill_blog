@@ -117,8 +117,11 @@ tournament_id_data <- webpage %>%
   html_nodes('optgroup') %>% 
   html_nodes('option')
 
-grab_id <- "[[:digit:]]+" #reg expression to pull id from tournament/player links
-grab_tournament_name <- "(?<=>).*(?=</option)" #(?<=> looks behind >), .* matches everything except new lines, (?=</option) looks ahead to match </option
+#reg expression to pull id from tournament/player links
+grab_id <- "[[:digit:]]+" 
+
+#(?<=> looks behind >), .* matches everything except new lines, (?=</option) looks ahead to match </option
+grab_tournament_name <- "(?<=>).*(?=</option)" 
 grab_date <- "(?<=>).*(?=</span)"
 
 tournament_ids <- integer() #empty vector to pull tournament ids for season
