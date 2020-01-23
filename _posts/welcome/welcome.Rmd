@@ -1,5 +1,5 @@
 ---
-title: "Welcome to JP's Blog"
+title: "Welcome"
 description: |
   Welcome to my new blog. I  hope you enjoy 
   reading what I have to say!
