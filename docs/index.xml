@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Jarrod's Blog</title>
+    <link>https://jarrodpelkofer.netlify.com/</link>
+    <atom:link href="https://jarrodpelkofer.netlify.com/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Jarrod's Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Scraping the Web with rvest</title>
+      <dc:creator>Jarrod Pelkofer</dc:creator>
+      <link>https://jarrodpelkofer.netlify.com/posts/rvest_web_scrape</link>
+      <description>A post showing how I used rvest to scrape golf data.</description>
+      <guid>https://jarrodpelkofer.netlify.com/posts/rvest_web_scrape</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <dc:creator>Jarrod Pelkofer</dc:creator>
+      <link>https://jarrodpelkofer.netlify.com/posts/welcome</link>
+      <description>Welcome to my new blog. I  hope you enjoy 
+reading what I have to say!</description>
+      <guid>https://jarrodpelkofer.netlify.com/posts/welcome</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
