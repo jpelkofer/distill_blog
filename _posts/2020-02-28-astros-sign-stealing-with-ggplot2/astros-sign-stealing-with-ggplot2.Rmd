@@ -4,10 +4,11 @@ description: |
   In my most recent course we had to create a unique visualization using a dataset of our choice. This post summarizes the analysis/visualization process I took.
 author:
   - name: Jarrod Pelkofer
-    url: 
+    url:
+    affiliation:
+    affiliation_url: 
 date: 02-28-2020
-output:
-  distill::distill_article
+output: distill::distill_article
 ---
 
 ```{r setup, layout="1-body-outset", include=FALSE}
@@ -19,6 +20,8 @@ knitr::opts_chunk$set(echo = FALSE)
 Major League Baseball was marred in controversary this off season. No controversy was more prominent than the sign stealing the 2017 World Series Champion Houston Astros were accused of. During the 2017 season, the Astros were stealing opponents’ signs with the use of cameras in the outfield. The Astros would then bang on a trash can to indicate the type of pitch that was coming.
 
 In a statement from the commissioner of baseball, the Astros used the banging and other tactics to indicate when a non-fastball pitch was coming. Thanks to Tony Adams and the website he created, signstealingscandal.com, data is available for analysis on the banging. Adams watched and listened to every pitch of 59 Astros home games. The data is detailed and includes whether he heard a bang or not for every pitch. It should be noted that Adams was not able to obtain audio and video for 23 of the Astros home games during the 2017 Season.
+
+Use this link to follow along with the code: <https://github.com/jpelkofer/astros_code/blob/master/blog_code>
 
 ```{r message=FALSE, warning=FALSE, include=TRUE}
 library(dplyr)
