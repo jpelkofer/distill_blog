@@ -7,7 +7,15 @@
     <description>Jarrod's Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Astros Sign Stealing with ggplot2</title>
+      <dc:creator>Jarrod Pelkofer</dc:creator>
+      <link>https://jarrodpelkofer.netlify.com/posts/2020-02-28-astros-sign-stealing-with-ggplot2</link>
+      <description>In my most recent course we had to create a unique visualization using a dataset of our choice. This post summarizes the analysis/visualization process I took.</description>
+      <guid>https://jarrodpelkofer.netlify.com/posts/2020-02-28-astros-sign-stealing-with-ggplot2</guid>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Scraping the Web with rvest</title>
       <dc:creator>Jarrod Pelkofer</dc:creator>

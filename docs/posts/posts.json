@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-28-astros-sign-stealing-with-ggplot2/",
+    "title": "Astros Sign Stealing with ggplot2",
+    "description": "In my most recent course we had to create a unique visualization using a dataset of our choice. This post summarizes the analysis/visualization process I took.",
+    "author": [
+      {
+        "name": "Jarrod Pelkofer",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-29T13:23:40-06:00"
+  },
+  {
     "path": "posts/rvest_web_scrape/",
     "title": "Scraping the Web with rvest",
     "description": "A post showing how I used rvest to scrape golf data.",
