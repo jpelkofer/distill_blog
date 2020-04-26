@@ -5,10 +5,10 @@ description: |
 base_url: https://jarrodpelkofer.netlify.com/
 collections:
   posts:
+    citations: false
     disqus: distill
     share: [twitter, linkedin]
-    citations: false
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
