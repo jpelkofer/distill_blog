@@ -168,8 +168,8 @@ With this approach, I get a good grouping of small multiples that tell a much be
 
 I’ll end with the final plot and explain below some of the adjustments I made to better tell the story.
 
-```{r echo=FALSE}
-astros_bangs %>%
+```{r echo=FALSE, preview=TRUE}
+final_plot <- astros_bangs %>%
   filter(pitch_category != "OT") %>%
   mutate(
     month = fct_recode(
@@ -216,6 +216,8 @@ astros_bangs %>%
     plot.caption = element_text(color = "#002D62"),
     plot.title.position = "plot"
   )
+
+final_plot
 
 
 ```
