@@ -1,8 +1,13 @@
 name: "distill"
-title: "JP Blog"
+title: "Jarrod's Blog"
 description: |
   Jarrod's Blog
 base_url: https://jarrodpelkofer.netlify.com/
+collections:
+  posts:
+    citations: false
+    disqus: jarrods_blog
+    share: [twitter, linkedin]
 output_dir: "docs"
 navbar:
   right:
