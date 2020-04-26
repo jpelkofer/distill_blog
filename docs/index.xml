@@ -15,6 +15,7 @@
       <description>In this post I explore parents tweets about their kids during the Corona Virus Pandemic.</description>
       <guid>https://jarrodpelkofer.netlify.com/posts/Parents_Kids_Quarantine</guid>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://jarrodpelkofer.netlify.com/posts/Parents_Kids_Quarantine/parents_kids_quarantine_twitter_files/figure-html5/unnamed-chunk-4-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>Astros Sign Stealing with ggplot2</title>
@@ -23,6 +24,7 @@
       <description>In my most recent course we had to create a unique visualization using a dataset of our choice. This post summarizes the analysis/visualization process I took.</description>
       <guid>https://jarrodpelkofer.netlify.com/posts/2020-02-28-astros-sign-stealing-with-ggplot2</guid>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://jarrodpelkofer.netlify.com/posts/2020-02-28-astros-sign-stealing-with-ggplot2/astros-sign-stealing-with-ggplot2_files/figure-html5/unnamed-chunk-7-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>Scraping the Web with rvest</title>

@@ -2,11 +2,13 @@
 title: "Astros Sign Stealing with ggplot2"
 description: |
   In my most recent course we had to create a unique visualization using a dataset of our choice. This post summarizes the analysis/visualization process I took.
+base_url: https://jarrodpelkofer.netlify.app/
 author:
   - name: Jarrod Pelkofer
-    url: https://jarrodpelkofer.netlify.app/
 date: 02-28-2020
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, layout="1-body-outset", include=FALSE}

@@ -2,13 +2,16 @@
 title: "Parents, Kids, and Quarantine through Twitter"
 description: |
   In this post I explore parents tweets about their kids during the Corona Virus Pandemic.
+base_url: https://jarrodpelkofer.netlify.app/
 author:
   - name: Jarrod Pelkofer
     url:
     affiliation:
     affiliation_url: 
 date: 04-25-2020
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, layout="1-body-outset", include=FALSE}
@@ -108,7 +111,7 @@ parent_words <- parent_tweets %>%
 # Word Counts, Pairs, and Correlations
 First, I look at the most common words showing up in these tweets.
 
-```{r message=FALSE, echo=FALSE}
+```{r message=FALSE, echo=FALSE, preview=TRUE}
 # total counts of all words in tweets
 word_counts <- parent_words %>% 
   count(word, sort = TRUE)

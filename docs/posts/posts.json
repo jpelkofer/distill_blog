@@ -11,8 +11,10 @@
     ],
     "date": "2020-04-25",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-04-25T22:38:57-05:00"
+    "preview": "posts/Parents_Kids_Quarantine/parents_kids_quarantine_twitter_files/figure-html5/unnamed-chunk-4-1.png",
+    "last_modified": "2020-04-26T13:23:11-05:00",
+    "preview_width": 1248,
+    "preview_height": 768
   },
   {
     "path": "posts/2020-02-28-astros-sign-stealing-with-ggplot2/",
@@ -21,13 +23,15 @@
     "author": [
       {
         "name": "Jarrod Pelkofer",
-        "url": "https://jarrodpelkofer.netlify.app/"
+        "url": {}
       }
     ],
     "date": "2020-02-28",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-04-26T12:34:51-05:00"
+    "preview": "posts/2020-02-28-astros-sign-stealing-with-ggplot2/astros-sign-stealing-with-ggplot2_files/figure-html5/unnamed-chunk-7-1.png",
+    "last_modified": "2020-04-26T13:21:18-05:00",
+    "preview_width": 1248,
+    "preview_height": 768
   },
   {
     "path": "posts/rvest_web_scrape/",
@@ -42,7 +46,7 @@
     "date": "2020-01-23",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-01-23T09:50:30-06:00"
+    "last_modified": "2020-04-26T13:25:48-05:00"
   },
   {
     "path": "posts/welcome/",
