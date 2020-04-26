@@ -7,6 +7,7 @@ collections:
   posts:
     disqus: distill
     share: [twitter, linkedin]
+    citations: false
 output_dir: "docs"
 navbar:
   right:
