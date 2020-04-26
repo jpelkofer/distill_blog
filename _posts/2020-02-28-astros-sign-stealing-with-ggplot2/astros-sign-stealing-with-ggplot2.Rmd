@@ -4,9 +4,7 @@ description: |
   In my most recent course we had to create a unique visualization using a dataset of our choice. This post summarizes the analysis/visualization process I took.
 author:
   - name: Jarrod Pelkofer
-    url:
-    affiliation:
-    affiliation_url: 
+    url: https://jarrodpelkofer.netlify.app/
 date: 02-28-2020
 output: distill::distill_article
 ---
@@ -168,7 +166,7 @@ With this approach, I get a good grouping of small multiples that tell a much be
 
 I’ll end with the final plot and explain below some of the adjustments I made to better tell the story.
 
-```{r echo=FALSE, preview=TRUE}
+```{r echo=FALSE}
 final_plot <- astros_bangs %>%
   filter(pitch_category != "OT") %>%
   mutate(
@@ -217,10 +215,12 @@ final_plot <- astros_bangs %>%
     plot.title.position = "plot"
   )
 
-final_plot
-
 
 ```
+```{r preview=TRUE}
+final_plot
+```
+
 
 Most of the editing to the final chart involved eliminating unnecessary elements and using color to emphasize the story being told. I removed both axis titles from the charts given the labels on both axes are self-explanatory. When thinking about color, I wanted to emphasize the bangs. The bangs were the story. For pitches involving bangs I used the Astros orange team color over a light grey for non-bang pitches. I liked the contrast between the colors and how it helped tell the story.
 
