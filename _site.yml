@@ -3,11 +3,6 @@ title: "Jarrod's Blog"
 description: |
   Jarrod's Blog
 base_url: https://jarrodpelkofer.netlify.com/
-collections:
-  posts:
-    citations: false
-    disqus: distill
-    share: [twitter, linkedin]
 output_dir: "docs"
 navbar:
   right:
