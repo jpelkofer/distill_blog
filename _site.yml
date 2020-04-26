@@ -8,7 +8,7 @@ collections:
     disqus: distill
     share: [twitter, linkedin]
     citations: false
-output_dir: "docs"
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
