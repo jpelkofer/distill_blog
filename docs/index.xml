@@ -7,7 +7,15 @@
     <description>Jarrod's Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Parents, Kids, and Quarantine through Twitter</title>
+      <dc:creator>Jarrod Pelkofer</dc:creator>
+      <link>https://jarrodpelkofer.netlify.com/posts/Parents_Kids_Quarantine</link>
+      <description>In this post I explore parents tweets about their kids during the Corona Virus Pandemic.</description>
+      <guid>https://jarrodpelkofer.netlify.com/posts/Parents_Kids_Quarantine</guid>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Astros Sign Stealing with ggplot2</title>
       <dc:creator>Jarrod Pelkofer</dc:creator>
