@@ -12,6 +12,8 @@ date: 04-25-2020
 output: 
   distill::distill_article:
     self_contained: false
+twitter:
+  creator: "@jpelk33"
 ---
 
 ```{r setup, layout="1-body-outset", include=FALSE}
