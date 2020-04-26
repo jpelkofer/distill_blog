@@ -1,7 +1,7 @@
 name: "distill"
 title: "Jarrod's Blog"
 description: |
-  Jarrod's Blog
+  Using R and other tools to figure things out!
 base_url: https://jarrodpelkofer.netlify.com/
 collections:
   posts:
