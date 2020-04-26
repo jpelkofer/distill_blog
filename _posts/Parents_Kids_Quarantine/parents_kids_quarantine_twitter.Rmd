@@ -371,4 +371,4 @@ Sentiment analysis as it often can proved to be fairly challenging here. Additio
 
 I hope everyone out there is staying safe and able to find a silver lining to this crazy time in our lives.
 
-code for the analysis can be found here: <>
+code for the analysis can be found here: <https://github.com/jpelkofer/distill_blog/blob/master/_posts/Parents_Kids_Quarantine/parents_kids_quarantine_twitter.Rmd>
