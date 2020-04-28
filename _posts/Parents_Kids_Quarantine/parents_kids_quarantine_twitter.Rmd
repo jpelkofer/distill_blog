@@ -132,7 +132,7 @@ word_counts %>%
         axis.text.y = element_text(color = "#38A1F3", face = "bold"))
 ```
 
-The most common word is "home". This should not come as a surprise since most parents are at home with their kids 24/7 right now. "Birthday" cracks the top five. Looking through tweets containing "birthday", alot of parents are dealing with cancelled birthday parties or trying to do unique things for there child's birthday. My sister had to cancel her sons birtday party and instead threw together a virtual party over Zoom.
+The most common word is "home". This should not come as a surprise since most parents are at home with their kids 24/7 right now. "Birthday" cracks the top five. Looking through tweets containing "birthday", alot of parents are dealing with cancelled birthday parties or trying to do unique things for there child's birthday. My sister had to cancel her sons birthday party and instead threw together a virtual party over Zoom.
 
 At first glance, I thought "school" and "due" may be related but "due" is being commonly used in phrases like "due to lockdown..." or "due to shutdown...". Schooling for children is certainly one of the biggest issues parents are facing right now.
 
