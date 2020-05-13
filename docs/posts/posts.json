@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/Tidymodels Flashcards/",
+    "title": "Tutorial Jail, Learning, and Tidymodels",
+    "description": "Avoid tutorial jail with this resource to get you started in tidymodels.",
+    "author": [
+      {
+        "name": "Jarrod Pelkofer",
+        "url": {}
+      }
+    ],
+    "date": "2020-05-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-13T15:23:32-05:00"
+  },
+  {
     "path": "posts/Parents_Kids_Quarantine/",
     "title": "Parents, Kids, and Quarantine through Twitter",
     "description": "In this post I explore parents tweets about their kids during the Corona Virus Pandemic.",

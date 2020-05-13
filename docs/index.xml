@@ -7,7 +7,15 @@
     <description>Using R and other tools to figure things out!
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Tutorial Jail, Learning, and Tidymodels</title>
+      <dc:creator>Jarrod Pelkofer</dc:creator>
+      <link>https://jarrodpelkofer.netlify.com/posts/Tidymodels Flashcards</link>
+      <description>Avoid tutorial jail with this resource to get you started in tidymodels.</description>
+      <guid>https://jarrodpelkofer.netlify.com/posts/Tidymodels Flashcards</guid>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Parents, Kids, and Quarantine through Twitter</title>
       <dc:creator>Jarrod Pelkofer</dc:creator>
