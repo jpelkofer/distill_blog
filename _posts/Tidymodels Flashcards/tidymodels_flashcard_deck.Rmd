@@ -33,7 +33,7 @@ This can make it hard to realize when you have been put in tutorial jail. In the
 *	Have you used anything from the tutorial in your own work?
 *	Have you revisited any topics you “learned” from the tutorial?
 
-If you answered no to any of these questions, chances are you have spent some time in tutorial jail.
+If you answered no to any of these questions, you need some bail.
 
 I have spent a fair amount of time in tutorial jail. More than I care to admit.
 
@@ -59,7 +59,7 @@ I don’t disagree with this at all. I have learned a ton from working on projec
 
 But let’s be honest, projects take time. I have a family, full time job, and am closing out a master’s degree. I do not have time to build out a project for every cool tutorial that I work through. No one does. 
 
-This is where the idea of flashcards and spaced repetition can be a beneficial learning resource. We all are familiar with flashcards but some of us may have not heard of spaced repetition. An example might be the best way to help understand the concept. On day 1 I am shown a flashcard. I try to answer that flashcard. I will then rate how easy or hard that card was for me to answer. This will inform the software’s algorithm to when I should be shown that card again.
+This is where the idea of flashcards and spaced repetition can be a beneficial learning resource. We all are familiar with flashcards. Spaced repetition maybe not so much. An example might be the best way to help understand the concept. On day 1, I am shown a flashcard. I try to answer that flashcard. I will then rate how easy or hard that card was for me to answer. This will inform the software’s algorithm to when I should be shown that card again. This process repeats over time. Easy rated cards are shown less frequently while difficult cards are shown more frequently.
 
 You can find a ton more about spaced repetition by googling it. Luckily, I was introduced to this concept of learning through a course on [Sharp Sight Labs]( https://www.sharpsightlabs.com/). It has really accelerated my ability to learn and retain things that I want to. 
 
@@ -77,7 +77,7 @@ Enter flashcards and spaced repetition!
 
 Over the course of a week, I spent some evenings going through the articles in the [Get Started](https://www.tidymodels.org/start/) section of the tidymodels website. As I worked through the tutorials and learned the concepts, I made flashcards to help remember the syntax and processes that tidymodels uses. It is important to note that I worked through and LEARNED the concepts prior to making the cards.
 
-If you want to check out the cards I made a downloadable Anki deck which can be found [here](https://github.com/jpelkofer/distill_blog/blob/master/_posts/Tidymodels%20Flashcards/tidymodels_basics.apkg). Note: I originally made them on iDoRecall and copied them over as Anki cards because it is free and easy to load.
+If you want to check out the cards, I made a downloadable Anki deck which can be found [here](https://github.com/jpelkofer/distill_blog/blob/master/_posts/Tidymodels%20Flashcards/tidymodels_basics.apkg). Note: I originally made them on iDoRecall and copied them over as Anki cards because it is free and easy to load.
 
 To benefit from the deck, I recommend going through the [Get Started](https://www.tidymodels.org/start/) posts first then testing your knowledge through the use of the cards. Or just make your own cards, which I find greatly beneficial.
 
